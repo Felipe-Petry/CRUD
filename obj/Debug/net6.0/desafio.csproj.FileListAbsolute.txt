@@ -1,0 +1,7 @@
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.csproj.AssemblyReference.cache
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pichau\Downloads\projeto\desafio\desafio\obj\Debug\net6.0\desafio.MvcApplicationPartsAssemblyInfo.cache

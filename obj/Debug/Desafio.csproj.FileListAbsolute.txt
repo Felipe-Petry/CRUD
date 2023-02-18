@@ -1,0 +1,8 @@
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\obj\Debug\Desafio.csproj.AssemblyReference.cache
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\obj\Debug\Desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Users\Pichau\Downloads\projeto\Desafio\Desafio\obj\Debug\Desafio.pdb
